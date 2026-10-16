@@ -1,0 +1,8 @@
+id: diseno
+name: Diseño UI/UX
+icon: "✦"
+color: magenta
+category: Producto y diseño
+description: "Investigación, flujos, sistema visual, textos, accesibilidad y componentes: de la idea a una interfaz clara y usable."
+lead: design-lead
+roles: [design-lead, ux, ux-researcher, ui-designer, ux-writer, a11y-specialist, design-system-dev, frontend]

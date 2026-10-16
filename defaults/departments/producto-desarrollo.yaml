@@ -1,0 +1,8 @@
+id: producto-desarrollo
+name: Desarrollo de producto
+icon: "⚙"
+color: green
+category: Producto y diseño
+description: "Squad completo de producto: el PM define el qué y los criterios, el CTO planifica y reparte, diseño, backend, frontend, QA y review lo entregan."
+lead: pm
+roles: [pm, cto, ux, architect, backend, frontend, qa, reviewer]

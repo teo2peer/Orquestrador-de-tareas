@@ -1,0 +1,8 @@
+id: marketing
+name: Marketing
+icon: "◎"
+color: magenta
+category: Marketing
+description: "Estrategia de marketing completa: posicionamiento y lanzamientos, publicidad de pago, PR y alianzas, contenido, embudos de captación, métricas y revisión de marca. Incluye un desarrollador frontend para landings y tracking."
+lead: growth-lead
+roles: [growth-lead, product-marketer, trend-researcher, paid-ads, pr-partnerships, copywriter, social-designer, seo-writer, lead-gen, marketing-analyst, brand-reviewer, frontend]

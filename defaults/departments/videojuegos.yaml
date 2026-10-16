@@ -1,0 +1,8 @@
+id: videojuegos
+name: Estudio de videojuegos
+icon: "◉"
+color: magenta
+category: Videojuegos
+description: "Diseña y construye un videojuego jugable: diseño, guion, dirección de arte, 2D, 3D, movimiento, niveles, sonido, programación, QA y un guardián de la cohesión."
+lead: game-director
+roles: [game-director, game-designer, narrative-writer, art-director, artist-2d, artist-3d, motion-designer, level-designer, audio-designer, gameplay-programmer, game-qa, cohesion-keeper]

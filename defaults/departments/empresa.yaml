@@ -1,0 +1,8 @@
+id: empresa
+name: Empresa completa
+icon: "■"
+color: white
+lead: ceo
+category: General
+description: "Los coordinadores de cada área y el núcleo técnico. El CEO recibe el encargo y lo reparte entre producto, ingeniería, operaciones, diseño y marketing; los especialistas se contratan cuando hacen falta."
+roles: [ceo, pm, cto, ops-lead, design-lead, growth-lead, architect, backend, frontend, qa, reviewer, sysadmin, devops, secops, researcher]

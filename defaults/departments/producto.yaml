@@ -1,0 +1,8 @@
+id: producto
+name: Producto
+icon: "◆"
+color: magenta
+lead: pm
+category: Producto y diseño
+description: "Requisitos, análisis funcional y diseño de experiencia con criterios de aceptación."
+roles: [pm, analyst, ux]

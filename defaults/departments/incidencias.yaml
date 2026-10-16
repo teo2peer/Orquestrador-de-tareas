@@ -1,0 +1,8 @@
+id: incidencias
+name: Gabinete de incidencias
+icon: "✚"
+color: red
+category: Operaciones
+description: "Respuesta completa a incidentes: mando, diagnóstico, logs, red, impacto, seguridad, arreglo, comunicación y post-mortem."
+lead: ops-lead
+roles: [ops-lead, sysadmin, network-engineer, impact, secops, devops, incident-writer]

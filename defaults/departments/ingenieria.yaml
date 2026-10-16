@@ -1,0 +1,8 @@
+id: ingenieria
+name: Ingeniería
+icon: "⚙"
+color: blue
+lead: cto
+category: Ingeniería
+description: "Diseño, implementación, tests y code review coordinados por el CTO."
+roles: [cto, architect, backend, frontend, qa, reviewer]

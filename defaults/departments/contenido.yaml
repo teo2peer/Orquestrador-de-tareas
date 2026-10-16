@@ -1,0 +1,8 @@
+id: contenido
+name: Creadores de contenido
+icon: "✎"
+color: magenta
+category: Marketing
+description: "Crea contenido para redes, vídeo, blog y email que llega más lejos y capta leads: investigación, estrategia por red, copy, vídeo, diseño, SEO, embudos, comunidad, métricas y revisión de marca. Incluye un desarrollador frontend para landings y tracking."
+lead: growth-lead
+roles: [growth-lead, trend-researcher, social-strategist, copywriter, video-scripter, social-designer, seo-writer, lead-gen, community-manager, marketing-analyst, brand-reviewer, frontend]

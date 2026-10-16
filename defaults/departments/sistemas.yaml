@@ -1,0 +1,8 @@
+id: sistemas
+name: Sistemas (SysAdmin)
+icon: "▣"
+color: yellow
+category: Operaciones
+description: "Equipo de sistemas: hosts Linux, red/DNS/firewall, storage y backups, correo, web/TLS, contenedores, monitorización, hardening y bases de datos."
+lead: ops-lead
+roles: [ops-lead, sysadmin, linux-admin, network-engineer, storage-backup, mail-admin, web-admin, devops, monitoring, secops, dba]

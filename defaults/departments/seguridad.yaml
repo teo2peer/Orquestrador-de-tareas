@@ -1,0 +1,8 @@
+id: seguridad
+name: Seguridad y riesgo
+icon: "◈"
+color: red
+lead: secops
+category: Operaciones
+description: "Vulnerabilidades y análisis de impacto: qué se rompe y a quién afecta."
+roles: [secops, impact]

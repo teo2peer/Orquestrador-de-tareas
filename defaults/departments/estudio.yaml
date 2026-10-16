@@ -1,0 +1,8 @@
+id: estudio
+name: Estudio y exámenes
+icon: "☰"
+color: yellow
+category: Formación
+description: "Convierte tus documentos en apuntes, esquemas, glosario, preguntas de examen con solucionario y flashcards, todo verificado contra la fuente."
+lead: study-lead
+roles: [study-lead, doc-reader, note-taker, exam-designer, fact-checker, tutor]
